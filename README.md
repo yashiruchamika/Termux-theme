@@ -1,5 +1,5 @@
 # Termux-teme
 For termux
-git clone https://github.com/yashiru1365
+git https://github.com/yashiruchamika/Termux-theme
 cd Termux-theme
 bash Install.sh
